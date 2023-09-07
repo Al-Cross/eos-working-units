@@ -1,5 +1,6 @@
 <script setup>
 import WorkingUnits from './components/WorkingUnits.vue';
+import Address from './components/Address.vue';
 </script>
 
 <template>
@@ -9,6 +10,7 @@ import WorkingUnits from './components/WorkingUnits.vue';
   </section>
 
   <main>
-    <h2>Details</h2>
+    <h2 class="mb-3">Details</h2>
+    <Address />
   </main>
 </template>

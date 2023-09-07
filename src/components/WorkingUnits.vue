@@ -1,10 +1,12 @@
 <script setup>
 import { ref } from 'vue';
+import { employeeId } from '../assets/appState';
 import workingUnits from '../assets/getWorkUnits.json';
 
 const activeItem = ref(-1);
 
 function setActive(item) {
+    employeeId.value = item;
     activeItem.value = item;
 }
 </script>
