@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Jane Smith",
+        "address": "123 Maple Street",
+        "city": "Pretendville",
+        "state": "NY",
+        "zip": "12345"
+    },
+    {
+        "name": "John Doe",
+        "address": "278 Main Street",
+        "city": "New York",
+        "state": "NY",
+        "zip": "763643"
+    },
+    {
+        "name": "Phoebee Larson",
+        "address": "878 Sunset Boulevard",
+        "city": "Los Angelis",
+        "state": "CA",
+        "zip": "263473"
+    },
+    {
+        "name": "Gordon Lee",
+        "address": "23 Copton Road",
+        "city": "New York",
+        "state": "NY",
+        "zip": "123345"
+    },
+    {
+        "name": "Jeremy Renee",
+        "address": "9832 Hudson Bay",
+        "city": "Columbus",
+        "state": "OH",
+        "zip": "69237"
+    }
+]

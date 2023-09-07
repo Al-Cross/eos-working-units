@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Jane Smith",
+        "employeeSince": "02.11.2016",
+        "department": "Sales",
+        "confidentiallityLevel": "L3",
+        "issuedEquipment": "Laptop"
+    },
+    {
+        "name": "John Doe",
+        "employeeSince": "14.12.2017",
+        "department": "Logistics",
+        "confidentiallityLevel": "L1",
+        "issuedEquipment": "Dockstation"
+    },
+    {
+        "name": "Phoebee Larson",
+        "employeeSince": "28.09.2011",
+        "department": "Legal Affairs",
+        "confidentiallityLevel": "L2",
+        "issuedEquipment": "Office Furniture"
+    },
+    {
+        "name": "Gordon Lee",
+        "employeeSince": "09.01.2021",
+        "department": "Software Development",
+        "confidentiallityLevel": "L2",
+        "issuedEquipment": "Laptop"
+    },
+    {
+        "name": "Jeremy Renee",
+        "employeeSince": "14.10.2015",
+        "department": "R & D",
+        "confidentiallityLevel": "L2",
+        "issuedEquipment": "Uniform"
+    }
+]
